@@ -6,7 +6,7 @@ Hi, I am Moeez!
 * **Focus:** Algorithms, Problem-Solving, & Deep Passion for AI
 ...
 🛠️ Core Projects
-* **[Python-core-logics](https://github.com):** Scripts and logical challenges built during my coding journey.
+* https://github.com/AI-ML-ENG/Python-core-logics: Scripts and logical challenges built during my coding journey.
 ...  
 🧠 Philosophy
 🔥 **ALWAYS HUNGRY FOR KNOWLEDGE, MATH, AND PROBLEM SOLVING**
