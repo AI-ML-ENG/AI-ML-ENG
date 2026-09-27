@@ -1,1 +1,12 @@
-HI, I AM MOEEZ ! | Future AI/ML Engineer  || **Age:** 16 Years Old * ||  **Target:**AI-ML-ENG ENEERING ,MIT Computer Science, NUST UNIVERSITY PK * || **Focus:** Algorithms, Problem-solving, deep-passion-and-curiosity-for-AI * || **Core Project:** [Python-core-logics](https://github.com) ||||| ALWAYS HUNGRY FOR KNOWLEDGE AND MATH AND PROBLEM SOLVING
+Hi, I am Moeez!
+
+🚀 Future AI/ML Engineer
+* **Age:** 16 Years Old
+* **Target:** MIT Computer Science / NUST University PK 🇵🇰
+* **Focus:** Algorithms, Problem-Solving, & Deep Passion for AI
+...
+🛠️ Core Projects
+* **[Python-core-logics](https://github.com):** Scripts and logical challenges built during my coding journey.
+...  
+🧠 Philosophy
+🔥 **ALWAYS HUNGRY FOR KNOWLEDGE, MATH, AND PROBLEM SOLVING**
